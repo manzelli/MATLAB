@@ -1,0 +1,1 @@
+A program that will analyze a design for a truss given a connection matrix, load, horizontal and vertical distances between each joint, and locations of reaction forces. Sample .mat files are provided with which the program may be tested.
